@@ -1,0 +1,42 @@
+A1 Website Download/2.3.1 ( http://www.microsystools.com/products/website-download/) miggibot
+A1 Website Download/2.3.9 (+http://www.microsystools.com/products/website-download/) miggibot
+A1 Website Download/2.0.2 (+http://www.microsystools.com/products/website-download/) miggibot
+A1 Website Download/5.0.4 (+http://www.microsystools.com/products/website-download/) miggibot
+Mozilla/3.0 (compatible; AvantGo 3.2)
+Mozilla/3.0 (compatible; AvantGo 5.2; FreeBSD)
+Axel 2.4 (Linux)
+Axel 2.4 (CYGWIN_NT-6.1-WOW64)
+sbl-bot (http://sbl.net)
+BlueCrab/4.9.5 (Macintosh; U; PPC Mac OS X; en)
+BlueCrab/5.0.06 (Macintosh; U; PPC Mac OS X; en)
+CyotekWebCopy/1.0 CyotekWebCrawler/1.0
+CyotekWebCopy/1.0 CyotekHTTP/2.0
+Mozilla/5.0 (compatible; Snacktory; +https://flynxapp.com)
+GetRight/3.2
+Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+HTTrack Website Copier/3.0x (offline browser; web mirror utility)
+iSiloX/4.37 Windows/32
+iSiloXC/4.37 Windows/32
+iSiloXC/4.37 Linux/i386
+JoBo/1.4
+JoBo/1.3 (http://www.matuschek.net/jobo.html)
+JOC Web Spider
+Offline Explorer/2.5
+Offline Explorer/1.4
+Web Downloader/5.7
+Web Downloader/7.9
+SiteSucker/1.6.9
+SiteSucker/2.4.1
+SuperBot/4.4.0.60 (Windows XP)
+SuperBot/4.7.0.74 (Windows XP)
+Teleport Pro/1.2x
+WebCopier v4.2
+WebCopier v3.0
+webfetch/5.4.2
+webfetch/5.4.3
+WebStripper/2.69
+WebZIP/7.0 (http://www.spidersoft.com)
+WebZIP/3.5 (http://www.spidersoft.com)
+Xaldon_WebSpider/2.0.b1
+Xaldon WebSpider 2.7.b6
+Xaldon WebSpider 2.7.b8
